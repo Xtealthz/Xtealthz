@@ -1,30 +1,54 @@
-# Jean Oliveira  
-### Cybersecurity Analyst | Google Certified | SOC Specialist  
+<h1>Hi, I'm Jean Oliveira! <br/>
+<a href="https://github.com/Xtealthz">Cybersecurity Analyst</a>, 
+<a href="https://www.linkedin.com/in/yourprofile">Security Educator</a>, 
+<a href="mailto:jeanfelipeoliveira94@gmail.com">Trilingual Professional</a></h1>
 
-**Multilingual Security Professional** (EN/PT/ES) with 10+ years in tech and education, now protecting systems through:  
-- Threat detection & incident response  
-- SIEM tools (Splunk, Chronicle)  
-- Phishing simulations & security training  
-- Python automation for security  
+<h2>🔐 Cybersecurity Certifications:</h2>
 
-## 🔐 Certifications  
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional-blue?logo=google)](https://www.coursera.org/account/accomplishments/professional-cert/FHSX1HU0I0NT)  
-[![Infosec](https://img.shields.io/badge/Infosec-Incident_Response-orange)](https://www.coursera.org/account/accomplishments/specialization/FEMA58NR6HRY)  
-[![Cisco](https://img.shields.io/badge/Cisco-SOC_Operations-green?logo=cisco)](https://www.coursera.org/account/accomplishments/verify/4C9UBUHC47JP)  
-[![Mastercard](https://img.shields.io/badge/Mastercard-Simulation-lightgrey)](https://www.theforage.com) `Code: kdgMLurt7ByjgZiqK`  
-[![TCS](https://img.shields.io/badge/TCS-IAM_Simulation-blue)](https://www.theforage.com) `Code: BqzSyreeZnBMLfHmX`  
+- <b>Google Cybersecurity Professional Certificate</b>
+  - [Verify on Coursera](https://www.coursera.org/account/accomplishments/professional-cert/FHSX1HU0I0NT)
+- <b>Infosec Cyber Incident Response Specialization</b>
+  - [Verify on Coursera](https://www.coursera.org/account/accomplishments/specialization/FEMA58NR6HRY)
+- <b>Cisco Security Operations Center (SOC)</b>
+  - [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/4C9UBUHC47JP)
+- <b>Mastercard Cybersecurity Job Simulation</b>
+  - Verification Code: kdgMLurt7ByjgZiqK
+- <b>TCS Cybersecurity Job Simulation (IAM)</b>
+  - Verification Code: BqzSyreeZnBMLfHmX
 
-## 💻 Technical Skills  
-**Security Tools**: Splunk, Chronicle, QRadar, Snort  
-**Languages**: Python (SOAR, regex), Bash, SQL  
-**Frameworks**: NIST CSF/RMF, SOC workflows  
+<h2>🛡️ Security Skills & Projects:</h2>
 
-## 🌟 Unique Value  
-- Former educator → exceptional at explaining security concepts  
-- Trilingual communicator for global teams  
-- Hands-on simulation experience (Mastercard, TCS)  
+- <b>SIEM Tools</b>
+  - Splunk, Chronicle, QRadar (log analysis, alert prioritization)
+- <b>Threat Detection</b>
+  - IDS/IPS (Snort, Suricata), network forensics, malware analysis
+- <b>Security Training</b>
+  - Designed phishing simulations (Mastercard), security awareness programs
+- <b>Python for Security</b>
+  - SOAR automation, packet analysis, regex for log parsing
+- <b>Identity & Access Management</b>
+  - Role-based access control, privilege escalation prevention (TCS Simulation)
 
-📫 **Contact**: [Email](mailto:jeanfelipeoliveira94@gmail.com) | [Phone](tel:+14083451481)  
-📍 San Mateo, CA | Open to opportunities  
+<h2>🌍 Language Skills:</h2>
 
-> *"Bridging security and accessibility through clear communication"*
+- Fluent in English, Portuguese, and Spanish
+- 10+ years teaching ESL with security awareness training experience
+- Ideal for global SOC teams and cross-cultural communication
+
+<h2>📫 Connect with me:</h2>
+
+[<img align="left" alt="JeanOliveira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JeanOliveira | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="JeanOliveira | Phone" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phone.svg" />][phone]
+
+[linkedin]: https://linkedin.com/in/yourprofile
+[email]: mailto:jeanfelipeoliveira94@gmail.com
+[phone]: tel:+14083451481
+
+📍 San Mateo, CA | Open to cybersecurity opportunities
+
+<!--
+**yourusername/yourusername** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+
+Fun fact: I combine my teaching background with cybersecurity to create effective security training programs!
+-->
