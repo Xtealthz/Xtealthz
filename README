@@ -1,34 +1,44 @@
 # Jean Oliveira  
-#### Cybersecurity Analyst | Google Certified | Trilingual Communicator (EN/PT/ES)
+### 🔒 Google-Certified Cybersecurity Analyst | 🌍 Trilingual (EN/PT/ES) | 🛡️ SOC Specialist
 
-## 🔑 Core Certifications
-- **[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FHSX1HU0I0NT)**  
-  *Coursera | Mar 2024 - Jan 2025*
-- **[Infosec Cyber Incident Response Specialization](https://www.coursera.org/account/accomplishments/specialization/FEMA58NR6HRY)**  
-  *Coursera | Jan 2025*
-- **[Cisco Security Operations Center (SOC)](https://www.coursera.org/account/accomplishments/verify/4C9UBUHC47JP)**  
-  *Coursera | Jan 2025*
-- **Mastercard Cybersecurity Simulation**  
-  *Forage | Jan 2025 | Code: `kdgMLurt7ByjgZiqK`*
-- **TCS IAM Simulation**  
-  *Forage | Mar 2025 | Code: `BqzSyreeZnBMLfHmX`*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURPROFILE)
+[![Email](https://img.shields.io/badge/Email_Me-Professional-green?style=for-the-badge&logo=gmail)](mailto:jeanfelipeoliveira94@gmail.com)
+
+---
+
+## 🏆 Certifications & Credentials
+
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional-blue?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/FHSX1HU0I0NT)
+[![Infosec](https://img.shields.io/badge/Infosec-Incident_Response-orange?logo=icloud&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/FEMA58NR6HRY)
+[![Cisco](https://img.shields.io/badge/Cisco-SOC_Operations-green?logo=cisco&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/4C9UBUHC47JP)
+[![Mastercard](https://img.shields.io/badge/Mastercard-Simulation-lightgrey?logo=mastercard&logoColor=white)](https://www.theforage.com)
+`Code: kdgMLurt7ByjgZiqK`
+[![TCS](https://img.shields.io/badge/TCS-IAM_Simulation-blue?logo=tcs&logoColor=white)](https://www.theforage.com)
+`Code: BqzSyreeZnBMLfHmX`
+
+---
 
 ## 🛠️ Technical Arsenal
-- **SIEM Tools**: Splunk, Chronicle, QRadar  
-- **Network Security**: Snort, Suricata, Wireshark  
-- **Automation**: Python (SOAR, Packet Analysis), Bash  
-- **Frameworks**: NIST CSF/RMF, MITRE ATT&CK  
 
-## 🌟 Unique Value
-- Transitioned from **10+ years in education** to cybersecurity  
-- Designed phishing simulations (Mastercard) & IAM strategies (TCS)  
-- Fluent in **English, Portuguese & Spanish** for global teams  
+**Security Tools**  
+![Splunk](https://img.shields.io/badge/Splunk-Expert-orange?logo=splunk)
+![Chronicle](https://img.shields.io/badge/Chronicle-Proficient-blue?logo=google-chronicle)
+![Snort](https://img.shields.io/badge/Snort-IDS_Expert-red?logo=snort)
 
-## 📬 Contact
-[![Email](https://img.shields.io/badge/Email-Join_My_Network-blue?logo=gmail)](mailto:jeanfelipeoliveira94@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-blue?logo=linkedin)](https://linkedin.com/in/YOURPROFILE)  
-📱 **Phone**: +1 (408) 345-1481  
+**Core Skills**  
+![Python](https://img.shields.io/badge/Python-SOAR_Automation-yellow?logo=python)
+![SIEM](https://img.shields.io/badge/SIEM-QRadar_Expert-blueviolet)
+![Phishing](https://img.shields.io/badge/Phishing_Simulations-Mastercard_Verified-success)
 
-📍 **Based in San Mateo, CA** | Open to remote/hybrid roles  
+---
 
-> "*Bridging security expertise with educational clarity*"
+## 🌟 Unique Value Proposition
+
+```python
+def why_hire_me():
+    return {
+        "experience": "10+ years in tech education",
+        "certifications": ["Google Cyber", "Cisco SOC", "Infosec IR"],
+        "languages": ["English", "Portuguese", "Spanish"],
+        "specialty": "Bridging technical security & user education"
+    }
