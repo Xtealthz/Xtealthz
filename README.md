@@ -141,9 +141,9 @@ Simulation - Forage, 2025
     validate_weights(model)  # Because Skynet jokes aren't funny anymore
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XtealthZ/XtealthZ/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XtealthZ/XtealthZ/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/XtealthZ/XtealthZ/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xtealthz/Xtealthz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xtealthz/Xtealthz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Xtealthz/Xtealthz/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
