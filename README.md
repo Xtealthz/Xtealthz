@@ -9,13 +9,13 @@
                                                                                                                                                                                                                                   
 ```
 
-## 👋 Hello, my name is Jean Oliveira (Xtealthz)
+## Hello world! My name is Jean and I love cybersecurity. 👋 
 
-🔒 Cybersecurity Analyst 
+🔒 Aspiring Cybersecurity Analyst 
 
 🌍 Trilingual Communicator 
 
-🎓 Security Educator
+🎓 Language Educator and Translator
 
 🐍 Python/SIEM Pro
 
