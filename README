@@ -1,54 +1,34 @@
-<div align="center">
+## 🛠️ Skills & Technologies
 
-# 👋 Hi, I'm Jean Oliveira  
-### `Google-Certified Cybersecurity Analyst | Trilingual (EN/PT/ES)`
+### 🔐 **Cybersecurity Focus**
+**Security Tools**  
+![Splunk](https://img.shields.io/badge/Splunk-Phishing_Detection-orange?logo=splunk)
+![Chronicle](https://img.shields.io/badge/Google_Chronicle-SIEM-blue?logo=google-chronicle)
+![Snort](https://img.shields.io/badge/Snort-IDS-red?logo=snort)
+![QRadar](https://img.shields.io/badge/IBM_QRadar-Log_Analysis-blue?logo=ibm)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-Join_My_Network-red?style=flat&logo=gmail)](mailto:jeanfelipeoliveira94@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+1(408)345--1481-green?style=flat&logo=whatsapp)](tel:+14083451481)
+**Frameworks & Standards**  
+![NIST](https://img.shields.io/badge/NIST_CSF-Risk_Management-lightgrey?logo=nist)
+![MITRE](https://img.shields.io/badge/MITRE_ATT&CK-Threat_Modeling-red?logo=mitre)
+![SOC2](https://img.shields.io/badge/SOC_2-Compliance-9cf)
 
-</div>
+### 💻 **Technical Skills**
+**Programming/Scripting**  
+![Python](https://img.shields.io/badge/Python-SOAR_Automation-yellow?logo=python)
+![Bash](https://img.shields.io/badge/Bash-System_Hardening-black?logo=gnu-bash)
+![SQL](https://img.shields.io/badge/SQL-Log_Analysis-4479A1?logo=postgresql)
 
----
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-Security-232F3E?logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-Container_Security-2496ED?logo=docker)
 
-## 🔐 **Core Certifications**
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/professional-cert/FHSX1HU0I0NT)  
-[![Infosec](https://img.shields.io/badge/Infosec-Incident_Response-FF6D00?style=for-the-badge&logo=icloud)](https://www.coursera.org/account/accomplishments/specialization/FEMA58NR6HRY)  
-[![Cisco](https://img.shields.io/badge/Cisco-SOC_Operations-1BA0D7?style=for-the-badge&logo=cisco)](https://www.coursera.org/account/accomplishments/verify/4C9UBUHC47JP)  
-[![Mastercard](https://img.shields.io/badge/Mastercard-Phishing_Simulations-EB001B?style=for-the-badge)](https://www.theforage.com)  
-[![TCS](https://img.shields.io/badge/TCS-IAM_Simulation-0072C6?style=for-the-badge)](https://www.theforage.com)
+### 🌐 **Soft Skills**
+![Teaching](https://img.shields.io/badge/Technical_Training-15+_Years-success)
+![Communication](https://img.shields.io/badge/Trilingual-EN/PT/ES-blueviolet)
+![Risk Analysis](https://img.shields.io/badge/Risk_Assessment-Phishing_Simulations-important)
 
----
-
-## 🛠️ **Technical Arsenal**
-![Python](https://img.shields.io/badge/Python-SOAR_Automation-3776AB?logo=python)
-![Splunk](https://img.shields.io/badge/Splunk-Log_Analysis-000000?logo=splunk)
-![Snort](https://img.shields.io/badge/Snort-IDS/IPS-FF0000?logo=snort)
-![Linux](https://img.shields.io/badge/Linux-System_Hardening-FCC624?logo=linux)
-![NIST](https://img.shields.io/badge/NIST_CSF/RMF-Compliance-0078D4)
-
----
-
-## 📊 **GitHub Stats**
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xtealthz&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xtealthz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🌍 **Language Skills**
-![English](https://img.shields.io/badge/English-Fluent-0077B5?logo=googletranslate)
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-009639?logo=googletranslate)
-![Spanish](https://img.shields.io/badge/Spanish-Fluent-CE181E?logo=googletranslate)
-
----
-
-<div align="center">
-  
-```python
-def why_hire():
-    return {
-        "experience": "10+ years in tech education",
-        "certifications": ["Google Cyber", "Cisco SOC", "Infosec IR"],
-        "skills": ["SIEM Tools", "Phishing Simulations", "Python Automation"],
-        "location": "San Mateo, CA | Open to opportunities"
-    }
+### 🛡️ **Methodologies**
+- Incident Response (Infosec Certified)
+- Identity & Access Management (TCS Simulation)
+- Network Forensics & Malware Analysis
+- Security Awareness Training
