@@ -26,7 +26,7 @@
 
 ## Certifications
 
-- [Google - Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FH5X1HU0I0NT) - Coursera, 2025
+- [Google - Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/professional-cert/FH5X1HU0I0NT) - Coursera, 2025
 - [Infosec - Cyber Incident Response Specialization](https://www.coursera.org/account/accomplishments/specialization/FEMA58NR6HRY) - Coursera, 2025
 - [Cisco - Security Operations Center (SOC)](https://www.coursera.org/account/accomplishments/verify/4C9UBUHC47JP) - Coursera, 2025
 - Mastercard - Cybersecurity Job Simulation - Forage, 2025
